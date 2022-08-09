@@ -1,4 +1,4 @@
-<a href="#"><img width="200px" height="200px" src="https://i.ibb.co/YXpDgWC/Programming-amico.png" height="200px"/></a>
+<a href="#"><img width="250px" height="250px" src="https://i.ibb.co/1RvYqRv/Programming-amico-1.png" height="250px"/></a>
 
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed (aka Psied)</h1>
 <h3 align="center">Innovator ⌚ Developer 📱 Traveller 🏕</h3>
