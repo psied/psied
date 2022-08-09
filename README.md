@@ -5,7 +5,7 @@
 <p align="center">"Curiosity is the essence of human existance"</p>
 <p align="center">Constantly learning everything that is interesting and intriguing.</p>
 
-
+ <a href="something" class="button2" id="about-button">About</a>
 
 ## Interests
 
