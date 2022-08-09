@@ -16,7 +16,7 @@
 
 - 📫 How to  me reach **[syedsays.in](https://syedsays.in)**
 
-- ⚡ Fun fact **I am from Mars 🧑🏻‍🚀**
+- ⚡ Fun fact **"I am from Mars 🧑🏻‍🚀"**
 
 <br />
 
