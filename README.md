@@ -3,15 +3,16 @@
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed (aka Psied)</h1>
 <h3 align="center">Innovator ⌚ Developer 📱 Traveller 🏕</h3>
 <p align="center">Constantly learning everything that is interesting and intriguing.</p>
-<!-- <p align="center"><blockquote>Curiosity is the essence of human existance</blockquote></p> -->
-<p align="center">
-    <figure>
-    <blockquote>
-        Curiosity is the essence of human existance
-    </blockquote>
-    <figcaption>Gene Cernan</figcaption>
-    </figure>
-</p>
+
+## Favourite Quote
+
+<figure>
+  <blockquote>
+    Curiosity is the essence of human existance
+  </blockquote>
+  <figcaption>Gene Cernan</figcaption>
+</figure>
+
 
 
 <br />
