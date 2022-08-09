@@ -2,11 +2,8 @@
 
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed (aka Psied)</h1>
 <h3 align="center">Innovator ⌚ Developer 📱 Traveller 🏕</h3>
-<p align="center">Constantly learning everything that is interesting and intriguing.</p>
-
-##
-
 <p align="center">"Curiosity is the essence of human existance"</p>
+<p align="center">Constantly learning everything that is interesting and intriguing.</p>
 
 
 
