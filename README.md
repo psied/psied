@@ -1,7 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed (aka Psied)</h1>
-<h3 align="center">An Innovator ⌚ Developer 💻 📱 Traveller 🏕, constantly learning everything that is interesting and intriguing. </h3>
+<h3 align="center">EInnovator ⌚ Developer 💻 📱 Traveller 🏕</h3>
+<p align="center">Constantly learning everything that is interesting and intriguing.</p>
+
+<hr>
 
 ## Interests
 
@@ -14,6 +17,8 @@
 - 📫 How to  me reach **[syedsays.in](https://syedsays.in)**
 
 - ⚡ Fun fact **I am from Mars 🧑🏻‍🚀**
+
+<br />
 
 ## Languages
 <p align="center">
