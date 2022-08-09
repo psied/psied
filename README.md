@@ -35,6 +35,9 @@
 
 <br />
 
+## Book which I'm Currently reading
+<img width="100%" height="auto" src="https://images-na.ssl-images-amazon.com/images/I/61tbitzGOyL.jpg" height="175px"/>
+
 ## Connect with me
 <p align="center">
     <a href = "https://www.linkedin.com/in/syedmasood-i/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
