@@ -43,4 +43,4 @@
     <a href = "https://www.youtube.com/channel/UC-xRLnyNVwsUubaPKXWuFmQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
-<p align="center"><a href="https://www.syedsays.in">www.syedsays.in</a></p>
+<p align="center"><a href="https://www.syedsays.in" target="_blank">www.syedsays.in</a></p>
