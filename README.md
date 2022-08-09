@@ -15,8 +15,6 @@
 
 ##
 
-<br />
-
 ## Interests
 
 - 🔭 I’m currently working on **Full-Stack Development**
