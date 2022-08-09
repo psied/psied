@@ -4,7 +4,7 @@
 <h3 align="center">Innovator ⌚ Developer 📱 Traveller 🏕</h3>
 <p align="center">Constantly learning everything that is interesting and intriguing.</p>
 
-## Favourite Quote
+##
 
 <figure>
   <blockquote>
@@ -13,7 +13,7 @@
   <figcaption>Gene Cernan</figcaption>
 </figure>
 
-
+##
 
 <br />
 
