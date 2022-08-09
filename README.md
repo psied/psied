@@ -6,14 +6,9 @@
 
 ##
 
-<figure>
-  <blockquote>
-    Curiosity is the essence of human existance
-  </blockquote>
-  <figcaption>Gene Cernan</figcaption>
-</figure>
+<p align="center">"Curiosity is the essence of human existance"</p>
 
-##
+
 
 ## Interests
 
