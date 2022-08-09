@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 Langugaes ... I primarily work with Javascript, Python and Swift
+- 👨‍💻 Langugaes ... I primarily work with **Javascript, Python and Swift**
 
 - 📫 How to  me reach **[syedsays.in](https://syedsays.in)**
 
