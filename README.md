@@ -5,39 +5,7 @@
 <p align="center">"Curiosity is the essence of human existance"</p>
 <p align="center">Constantly learning everything that is interesting and intriguing.</p>
 
- <a href="something" class="button2" id="website-button">Visit Website</a>
-
- <style>
-    #about-button { 
-    background-color:#f14e4e;
-    text-decoration: none;
-    margin-right: 20px;
-}
-
-#about-button:hover {
-    background-color: white;
-    border-color: #f14e4e;
-    color: #f14e4e;
-}
-
-a.button2 {
-    display: inline-block;
-    padding: 0.3em 1.2em;
-    margin: 0 0.1em 0.1em 0;
-    border: 0.16em solid rgba(255, 255, 255, 0);
-    border-radius: 2em;
-    box-sizing: border-box;
-    text-decoration: none;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    font-size: large;
-    color: white;
-    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
-    text-align: center;
-    transition: all 0.2s;
-}
- </style>
-
+ 
 ## Interests
 
 - 🔭 I’m currently working on **Full-Stack Development**
