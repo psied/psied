@@ -4,7 +4,7 @@
 <h3 align="center">Innovator ⌚ Developer 📱 Traveller 🏕</h3>
 <p align="center">Constantly learning everything that is interesting and intriguing.</p>
 
-<hr>
+<br />
 
 ## Interests
 
