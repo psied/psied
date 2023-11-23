@@ -37,7 +37,7 @@
 <br />
 
 ## Book which I'm Currently reading
-<img width="120px" height="170px" src="https://images-na.ssl-images-amazon.com/images/I/61tbitzGOyL.jpg" height="170px"/>
+<img width="120px" height="170px" src="https://i.ibb.co/NtGBqxf/61bfj-w-Ar-L-SL1400.jpg" height="170px"/>
 
 ## Connect with me
 <p align="center">
