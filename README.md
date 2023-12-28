@@ -8,7 +8,7 @@
  
 ## Interests
 
-- 🔭 I’m currently working on **Full-Stack Development**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Blockchain**
 
