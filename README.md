@@ -23,7 +23,7 @@
     />
   </a>
   &nbsp;
-  <a href="[PROBABLYFIT_URL](https://probablyfit.app/)">
+  <a href="https://probablyfit.app/">
     <img
       src="https://img.shields.io/badge/ProbablyFit_%E2%86%97-181818?style=for-the-badge"
       alt="ProbablyFit"
