@@ -1,24 +1,42 @@
 <br>
 
-<h1 align="center">Syed</h1>
+<div align="center">
 
-<p align="center">
-  Founder of <strong>ProbablyFit</strong>
-</p>
+  <h1>Syed</h1>
 
-<br>
+  <p>Founder of <strong>ProbablyFit</strong></p>
 
-<p align="center">
-  We have a different idea of what fitness could be.<br>
-  And we’re building it.
-</p>
+  <br>
 
-<br>
+  <p>
+    We have a different idea of what fitness could be.<br>
+    And we’re building it.
+  </p>
 
-<p align="center">✦</p>
+  <br>
 
-<p align="center">
-  <sub>PROBABLYFIT &nbsp; / &nbsp; BUILT WITH INTENT</sub>
-</p>
+  <a href="https://www.linkedin.com/in/syedmasood-i/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      height="28"
+    />
+  </a>
+  &nbsp;
+  <a href="PROBABLYFIT_URL">
+    <img
+      src="https://img.shields.io/badge/ProbablyFit_%E2%86%97-181818?style=for-the-badge"
+      alt="ProbablyFit"
+      height="28"
+    />
+  </a>
+
+  <br>
+  <br>
+  <br>
+
+  <sub>BUILT WITH INTENT.</sub>
+
+</div>
 
 <br>
