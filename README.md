@@ -1,24 +1,24 @@
-# Syed Masood Ibrahim
-Founder of ProbablyFit · Developer · Based in Germany
+<br>
 
-I build products across software and connected hardware.
+<h1 align="center">Syed</h1>
 
-Currently, I’m building **ProbablyFit**—a connected fitness ecosystem bringing training, nutrition, and hydration together. The core app is free, with a broader vision spanning connected devices and physical fitness spaces.
+<p align="center">
+  Founder of <strong>ProbablyFit</strong>
+</p>
 
-### What I’m building
+<br>
 
-**ProbablyFit**  
-An adaptive fitness app that helps people plan their training, track their progress, and know what to do when they walk into the gym.
+<p align="center">
+  We have a different idea of what fitness could be.<br>
+  And we’re building it.
+</p>
 
-**thisBottle**  
-A connected water bottle in development, designed to make everyday hydration tracking effortless.
+<br>
 
-### Background
+<p align="center">✦</p>
 
-I’m pursuing a master’s degree in Information and Communication Engineering at TU Darmstadt, with a background in electronics and communication engineering.
+<p align="center">
+  <sub>PROBABLYFIT &nbsp; / &nbsp; BUILT WITH INTENT</sub>
+</p>
 
-My interests span product design, mobile development, and the relationship between software and the physical world.
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/syedmasood-i/) · [Website](https://syedsays.in) · [Email](mailto:contact@syedsays.in)
+<br>
